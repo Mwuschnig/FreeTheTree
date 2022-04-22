@@ -1,8 +1,7 @@
 ![image](https://user-images.githubusercontent.com/10611499/164673691-df8d9ef2-ad89-45d9-9658-57ad0c6cd273.png)
 
 
-# Motivation
-„Free the tree“ – ein autonomer Mähroboter für Aufforstungsflächen
+# „Free the tree“ – ein autonomer Mähroboter für Aufforstungsflächen
 ## Problem:
 - Aufforstungsflächen verursachen einen hohen manuellen Arbeitsaufwand in den Sommermonaten
 - Durch Klimawandel sind zunehmende Dürren und somit Freiflächen zu erwarten
@@ -25,9 +24,7 @@ Dieser ist in der Lage:
 - Modulares stufenweises Autonomiemodell für maßgeschneiderte Individuallösungen
 - Große Waldeigentümer
 - Forstliche Lohnunternehmer
-## Weitere Schritte
-„Free the tree“ – ein autonomer Mähroboter für Aufforstungsflächen
-Nächster Schritt:
+## Nächste Schritte Schritte
 - Partnersuche (Mähroboterhersteller)
 -  Geeignete Testflächen
 - Präzise Anforderungsdefinition
