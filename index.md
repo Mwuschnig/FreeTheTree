@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/10611499/164673691-df8d9ef2-ad89-45d9-9658-57ad0c6cd273.png)
 
 
-## Präsentation
+## Pitchdeck
 
 ![image](./images/1.jpg)
 ![image](./images/2.jpg)
