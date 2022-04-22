@@ -1,4 +1,4 @@
-# Free The Tree
+![image](https://user-images.githubusercontent.com/10611499/164673691-df8d9ef2-ad89-45d9-9658-57ad0c6cd273.png)
 
 ## Anfang
 „Free the tree“ – ein autonomer Mähroboter für Aufforstungsflächen
