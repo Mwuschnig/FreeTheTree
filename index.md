@@ -11,6 +11,7 @@
 - Autonome Mähroboter bieten Möglichkeit der Entlastung der Situation
 ##  Lösungsmöglichkeit
 „Free the tree“ – ein autonomer Mähroboter für Aufforstungsflächen
+
 Dieser ist in der Lage:
 - Entstandene Aufforstungsflächen zu mähen
 - Frühzeitige Flächendigitalisierung sicherzustellen
