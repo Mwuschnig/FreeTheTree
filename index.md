@@ -1,5 +1,10 @@
 ![image](https://user-images.githubusercontent.com/10611499/164673691-df8d9ef2-ad89-45d9-9658-57ad0c6cd273.png)
 
+## Kontakt
+
+Marco Wuschnig marco.wuschnig@tuwien.ac.at
+
+Adress: Gusshausstrasse 27-29/384, 1040 Vienna, Austria, 3rd floor, Room CB 0316
 
 ## Pitchdeck
 
@@ -9,16 +14,6 @@
 ![image](./images/4.jpg)
 ![image](./images/5.jpg)
 ![image](./images/7.jpg)
-
-
-## Kontakt
-
-Marco Wuschnig marco.wuschnig@tuwien.ac.at
-
-Adress: Gusshausstrasse 27-29/384, 1040 Vienna, Austria, 3rd floor, Room CB 0316
-
-
-
 
 ## „Free the tree“ – ein autonomer Mähroboter für Aufforstungsflächen
 ## Problem:
