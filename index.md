@@ -32,9 +32,16 @@ Nächster Schritt:
 - Präzise Anforderungsdefinition
 
 
-## Team
+## Präsentation
 
-![image](./images/Team.jpg)
+![image](./images/1.jpg)
+![image](./images/2.jpg)
+![image](./images/3.jpg)
+![image](./images/4.jpg)
+![image](./images/5.jpg)
+![image](./images/7.jpg)
+
+
 
 
 ## Welcome to GitHub Pages
