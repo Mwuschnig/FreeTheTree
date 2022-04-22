@@ -40,9 +40,10 @@ Dieser ist in der Lage:
 - Forstliche Lohnunternehmer
 ## Nächste Schritte
 - Partnersuche (Mähroboterhersteller)
--  Geeignete Testflächen
+- Geeignete Testflächen
 - Präzise Anforderungsdefinition
-
-
+## Partners
+- (Christian Doppler Laboratory for Embedded Machine Learning)[https://eml.ict.tuwien.ac.at/]
+- (Josephinum Research)[https://www.dih-innovate.at/event/umsetzungsprojekt-autonome-low-cost-robotersysteme-in-obst-und-weingaerten/]
 
 
